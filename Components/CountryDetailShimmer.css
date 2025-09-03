@@ -1,0 +1,24 @@
+.country-details img{
+/* width: 500px; */
+height: 284px;
+background-color: grey;
+}
+
+.details-text-container h2{
+  /* width: 100px; */
+ height: 32px;
+ background-color: grey;
+    }
+
+
+.details-text-container p{
+    /* width: 170px; */
+ height: 22px;
+ background-color: grey;
+}
+
+.border-countries div{
+ /* width: 45px; */
+ height: 18px;
+ background-color: grey;
+}
